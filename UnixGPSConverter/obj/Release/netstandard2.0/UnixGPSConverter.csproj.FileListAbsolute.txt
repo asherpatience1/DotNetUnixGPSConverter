@@ -1,0 +1,9 @@
+C:\Users\Asher\source\repos\UnixGPSConverter\bin\Release\netstandard2.0\UnixGPSConverter.deps.json
+C:\Users\Asher\source\repos\UnixGPSConverter\bin\Release\netstandard2.0\UnixGPSConverter.dll
+C:\Users\Asher\source\repos\UnixGPSConverter\bin\Release\netstandard2.0\UnixGPSConverter.pdb
+C:\Users\Asher\source\repos\UnixGPSConverter\obj\Release\netstandard2.0\UnixGPSConverter.csprojAssemblyReference.cache
+C:\Users\Asher\source\repos\UnixGPSConverter\obj\Release\netstandard2.0\UnixGPSConverter.csproj.CoreCompileInputs.cache
+C:\Users\Asher\source\repos\UnixGPSConverter\obj\Release\netstandard2.0\UnixGPSConverter.AssemblyInfoInputs.cache
+C:\Users\Asher\source\repos\UnixGPSConverter\obj\Release\netstandard2.0\UnixGPSConverter.AssemblyInfo.cs
+C:\Users\Asher\source\repos\UnixGPSConverter\obj\Release\netstandard2.0\UnixGPSConverter.dll
+C:\Users\Asher\source\repos\UnixGPSConverter\obj\Release\netstandard2.0\UnixGPSConverter.pdb
